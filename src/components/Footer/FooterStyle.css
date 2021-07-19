@@ -1,0 +1,16 @@
+.footer {
+  background-image: linear-gradient(to right, #e66b1d, #fc8f14, #f2a413);
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.footerDiv {
+  margin: auto 0.1em auto auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.footer > div span,
+a {
+  padding: 1em;
+}

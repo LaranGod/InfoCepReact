@@ -1,0 +1,9 @@
+.containerComplete {
+  display: flex;
+  background: #f3f3f3;
+  border-radius: 0 20px 20px 0;
+}
+
+.formComplete {
+  padding: 1em 2em 2em 2em;
+}
